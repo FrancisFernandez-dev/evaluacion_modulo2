@@ -1,1 +1,2 @@
-# evaluacion_modulo2
+# evaluacion_modulo2: Este trabajo respectivo a la evolucion del modulo 2. Está diseñado en base a 3 paginas html, las cuales son : Index.html, consejos.html y amenazas.html. Las cuales estan diseñada en html en compañia de bootstrap en la creacion de barras de navegacion, carrusel, formulario, test, etc. A demas de un archivo css el cual le da caracteristicas esteticas a los botones del menú texto entre otras. El archivo script.js arroja una advertencia para rellenar los campos del formulario y a demas se encarga de darle la respuesta al test. 
+
